@@ -7,7 +7,7 @@ namespace Ejercicio1
         static void Main(string[]args)
         {
             // Determinar si un número es Par o Impar en C#
-            Console.Write("Introduce un número: ");
+            Console.Write("Introduce un número deseado: ");
             int num = int.Parse(Console.ReadLine()); 
 
              
